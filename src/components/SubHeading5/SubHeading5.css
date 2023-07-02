@@ -1,0 +1,4 @@
+.app__subheading-title {
+    font-family: var(--font-base);
+    color: var(--color-white);
+}
